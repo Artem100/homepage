@@ -7,5 +7,5 @@ The main goal of project - create resume for street fighter **Ryu Hoshi**. He de
 * HTML;
 * CSS;
 
-## Link website on resume of Ryu Hoshi
+## Link to Ruy's resume
 URL: https://artem100.github.io/homepage/
